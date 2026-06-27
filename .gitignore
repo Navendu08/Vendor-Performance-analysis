@@ -1,0 +1,6 @@
+data/inventory.db
+data/data/sales.csv
+data/data/purchases.csv
+data/.ipynb_checkpoints/
+__pycache__/
+*.pyc
